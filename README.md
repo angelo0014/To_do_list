@@ -9,3 +9,13 @@ Start
 -mysql
 ADMIN
 -mysql
+create database w name = to_do_list
+create a table w name = todos = id,title,date_time,checked
+
+types
+id = int = check A_I
+title = text
+date_time = datetime
+checked = boolean = as defined, 0 
+
+todos
